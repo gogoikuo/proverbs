@@ -1,0 +1,3 @@
+ProverbIntent 諺を教えて
+ProverbIntent 諺をひとつ教えて
+ProverbIntent 何か諺を教えて
